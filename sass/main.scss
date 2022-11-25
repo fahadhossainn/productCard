@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-color: rgba(#ffffee, 0.3);
+  background-color: rgba(242, 248, 250, 0.7);
   box-sizing: border-box;
 }
 .card {
@@ -18,7 +18,6 @@ body {
   width: 27rem;
   height: 38rem;
   perspective: 170rem;
-  background-color: #fff;
 
   &__front {
     width: 100%;
